@@ -1,0 +1,285 @@
+<div style="text-align:center; margin-top:40px;"><img src="C:\Users\khyat\OneDrive\Desktop\download5.png"></div>
+
+<div style="text-align:center; margin-top:40px;">
+<a style="padding-right: 20px;" href="file:///C:/Users/khyat/OneDrive/Documents/home.html">HOME</a>
+<a style="padding-right: 20px;" href="file:///C:/Users/khyat/OneDrive/Documents/about.html">ABOUT</a>
+<a style="padding-right: 20px;" href="file:///C:/Users/khyat/OneDrive/Documents/services.html">SERVICES</a>
+<a style="padding-right: 20px;" href="file:///C:/Users/khyat/OneDrive/Documents/menu.html">MENU</a>
+
+</div>
+
+<h1 style="font-size:50px;text-align:center;"><i>MENU</h1></i>
+
+
+
+<div style="text-align:center;"><a style="font-size:20px; background-color:red; padding:15px 25px 15px 25px; color:white;" href="https://www.google.com/">Read More</a></div>
+
+
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+
+
+
+<table>
+  <tr>
+    <th>FLAVOURS</th>
+    <th>SCOOP</th>
+    <th>CONE</th>
+    
+ </tr>
+  <tr>
+<td>Cioccolato al latte<br>
+(Milk chocolate gelato is a must-try for any chocolate aficionado)</td>
+    <td>225</td>
+    <td>250</td>
+</tr>
+  <tr>
+<td>Cioccolato fondente<br>
+(Intense and rich dark chocolate gelato for a deeply satisfying experience)</td>
+    <td>260</td>
+    <td>290</td>
+</tr>
+  <tr>
+<td>Cioccolato bianco<br>
+(Sweet and velvety white chocolate gelato, perfect for those who prefer a milder chocolate flavor)</td>
+    <td>270</td>
+    <td>295</td>
+</tr>
+  <tr>
+<td>Bacio<br>
+(This chocolate and hazelnut flavor is a twist on the classic Gianduia and must-try for any chocolate lover)</td>
+    <td>260</td>
+    <td>290</td>
+ </tr>
+<tr>
+<td>Cioccolato all’Arancia<br>
+(Orange chocolate gelato infused with a tangy hint of orange)</td>
+    <td>210</td>
+    <td>235</td>
+ </tr>
+  <tr>
+<td>Cioccolato con Peperoncino<br>
+(Spicy chocolate gelato with a kick of chili pepper)</td>
+    <td>225</td>
+    <td>250</td>
+</tr>
+  <tr>
+<td>Cioccolato e Menta<br>
+(Refreshing combination of chocolate and mint flavors)</td>
+    <td>220</td>
+    <td>245</td>
+</tr>
+  <tr>
+<td>Stracciatella<br>
+(Vanilla gelato swirled with fine chocolate shavings)</td>
+    <td>225</td>
+    <td>250</td>
+</tr>
+  <tr>
+<td>Fior di latte<br>
+(This simple yet delicious flavor is made with milk and cream and is a favorite among traditionalists)</td>
+    <td>230</td>
+    <td>245</td>
+</tr>
+  <tr>
+<td>Vaniglia<br>
+(artisan gelato in vanilla flavor)</td>
+    <td>225</td>
+    <td>250</td>
+</tr>
+<tr>
+<td>Crema<br>
+(Classic Italian custard-flavored gelato)</td>
+    <td>225</td>
+    <td>250</td>
+</tr>
+  <tr>
+<td>Tiramisu<br>
+(Coffee-infused gelato with layers of mascarpone and cocoa)</td>
+    <td>275</td>
+    <td>290</td>
+</tr>
+  <tr>
+<td>Caramel<br>
+(Creamy gelato infused with buttery caramel unique flavor)</td>
+    <td>270</td>
+    <td>295</td>
+</tr>
+  <tr>
+<td>Panna Cotta<br>
+(Gelato inspired by the traditional Italian dessert, featuring a creamy, custard-like taste)</td>
+    <td>305</td>
+    <td>320</td>
+ </tr>
+<tr>
+<td>Caffe<br>
+(Bold and aromatic coffee-flavored gelato)</td>
+    <td>225</td>
+    <td>250</td>
+ </tr>
+  <tr>
+<td>After Eight (Cream or Milk-Based)<br>
+(A refreshing blend of cool mint and rich chocolate inspired by the famous after Eight chocolate thins)</td>
+    <td>375</td>
+    <td>402</td>
+ </tr>
+<tr>
+<td>Zuppa Inglese<br>
+(Decadent gelato inspired by the Italian dessert, with layers of custard, sponge cake, and Alchermes liqueur)</td>
+    <td>345</td>
+    <td>375</td>
+</tr>
+  <tr>
+ <td>Malaga<br>
+(Rum-infused gelato with juicy raisins for a delightful contrast)</td>
+    <td>345</td>
+    <td>375</td>
+</tr>
+<tr>
+<td>Zabaione<br>
+(Rich gelato made with Marsala wine and egg yolks for a luxurious taste)</td>
+  <td>150</td>
+  <td>200</td>
+</tr>
+<tr>
+<td>Dulce De Leche<br>
+(Creamy and sweet caramel-flavored gelato with a luxurious, indulgent taste)</td>
+  <td>250</td>
+  <td>300</td>
+</tr>
+<tr>
+<td>Fragola<br>
+(Strawberry gelato is a classic flavor that never disappoints)</td>
+  <td>270</td>
+  <td>285</td>
+</tr>
+<tr>
+<td>Limone<br>
+(This lemon gelato is tangy and refreshing, perfect for a hot summer day)</td>
+  <td>328</td>
+  <td>375</td>
+</tr>
+<tr>
+<td>Mango<br>
+(Made with natural mango, this flavor is sweet and tropical)</td>
+  <td>340</td>
+  <td>350</td>
+</tr>
+<tr>
+<td>Melone<br>
+(Juicy and refreshing cantaloupe gelato)</td>
+<td>360</td>
+<td>375</td>
+</tr>
+<tr>
+<td>Pesca<br>
+(Ripe and delicate peach gelato)</td>
+<td>310</td>
+<td>325</td>
+</tr>
+<tr>
+<td>Pistacchio<br>
+(Made with real pistachio nuts, this flavor is rich, nutty, and irresistible)</td>
+<td>250</td>
+<td>265</td>
+</tr>
+<tr>
+<td>Nocciola<br>
+(Like pistacchio, this flavor is made with hazelnuts and has a slightly sweeter taste)</td>
+<td>160</td>
+<td>175</td>
+</tr>
+<tr>
+<td>Mandorla<br>
+(Smooth almond gelato with a subtle nutty taste)</td>
+<td>189</td>
+<td>230</td>
+</tr>
+
+
+</table>
+<table>
+  <tr>
+    <th>SANDWICHES</th>
+    <th>AMOUNT</th>
+  </tr>
+  <tr>
+    <td>Cheese and corn</td>
+    <td>125</td>
+    
+  </tr>
+  <tr>
+    <td>Chicken tikka</td>
+    <td>220</td>
+    
+  </tr>
+  <tr>
+    <td>Grilled panner</td>
+    <td>195</td>
+    
+  </tr>
+  <tr>
+    <td>Mexican Barbeque</td>
+    <td>200</td>
+
+</table>
+<table>
+  <tr>
+    <th>FLAVOURS</th>
+    <th>THICKSHAKES</th>
+    <th>MILKSHAKES</th>
+  </tr>
+  <tr>
+    <td>Choclate Delights<br>
+(BELGIAN CHOCLATE,CHOCO BROWNIE CRUMBLE,NUTELLA BROWNIE CRUMBLE,NUTELLA CHOCOLATE BLAST,PEANUT BUTTER INDULGENCE)</td>
+    <td>222</td>
+    <td>199</td>
+    
+  </tr>
+  <tr>
+    <td>Fruity Delights<br>
+(REAL MANGO,REAL BANANA,REAL CHICKOO,STRAWBERRY PINKY PENNY,STRAWBERRY CHOCOCHIPS)</td>
+    <td>211</td>
+    <td>187</td>
+    
+  </tr>
+  <tr>
+    <td>Classic Shakes<br>
+(BLUEBERRY DELIGHT,CARAMEL CARNIVAL,CRUNCHY BUTTERSCOTH,MEXICAN VANILLA,TRIPLE CHOCOCHIP,VERY BERRY)</td>
+    <td>211</td>
+    <TD>187</td>
+    
+  </tr>
+  <tr>
+    <td>Candy Delights<br>
+(KITKAT,SNICKERS,FERRERO ROCHER)</td>
+    <td>234</td>
+    <td>222</td>
+    
+    
+
+  </tr>
+
+
+</body>
+</html>
+
